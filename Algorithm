@@ -1,0 +1,69 @@
+
+1-Start System
+
+-Power up the robot and calibrate its joints and sensors.
+
+-Confirm the positions of:
+-a) The table (where items arrive)
+-b) The lamp/robotic arm base
+-c) The shelving unit (storage)
+
+2-Scan the Table
+
+-Use a camera or sensor to detect if there is a food product on the table.
+
+-Wait if the table is empty.
+
+3-Identify the Product
+
+Use object recognition or barcode/label scanner to determine the product type.
+
+Categorize the product (e.g., perishable, non-perishable, or by batch number).
+
+4-Pick Up the Product
+
+Move the robotic arm to the product's location on the table.
+
+Align and lower the gripper.
+
+Grip the product securely.
+
+Lift the product off the table.
+
+5-Determine Shelf Position
+
+Based on the product category, decide which shelf level to use:
+
+Bottom shelf → heavy items or bulk
+
+Middle shelves → general food products
+
+Top shelf → light or priority items
+
+6-Move to Shelf
+
+Rotate and extend the robotic arm toward the target shelf.
+
+Align vertically with the shelf level.
+
+7-Place Product on Shelf
+
+Lower the product to the correct position on the shelf.
+
+Release the grip.
+
+Retract and return the arm to its idle position.
+
+8-Update Inventory
+
+Log the product type, shelf location, and time of placement in a digital system.
+
+9-Loop
+
+Return to Step 2 and repeat the cycle continuously.
+
+10-Shutdown or Maintenance
+
+After a set time or command, enter maintenance mode.
+
+Power down or begin cleaning protocols.
