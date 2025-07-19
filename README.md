@@ -1,1 +1,3 @@
-# mechanical-task-2
+This project features a fully automated robotic system designed for food product handling in a factory environment without any human labor. The system consists of a robotic arm, a work table, and a multi-level shelving unit for organized storage.
+
+The robot operates autonomously by detecting, identifying, and categorizing food items placed on the input table. Using a programmed decision algorithm, it determines the appropriate shelf level for each item based on type or batch and places it accordingly. This setup ensures efficient, consistent, and hands-free operation in food processing and storage.
