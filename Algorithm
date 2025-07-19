@@ -1,18 +1,18 @@
 
 1-Start System
 
--Power up the robot and calibrate its joints and sensors.
+Power up the robot and calibrate its joints and sensors.
 
--Confirm the positions of:
--a) The table (where items arrive)
--b) The lamp/robotic arm base
--c) The shelving unit (storage)
+Confirm the positions of:
+a) The table (where items arrive)
+b) The lamp/robotic arm base
+c) The shelving unit (storage)
 
 2-Scan the Table
 
--Use a camera or sensor to detect if there is a food product on the table.
+Use a camera or sensor to detect if there is a food product on the table.
 
--Wait if the table is empty.
+Wait if the table is empty.
 
 3-Identify the Product
 
