@@ -1,5 +1,5 @@
 
-# 1-Start System
+#1-Start System
 
 Power up the robot and calibrate its joints and sensors.
 
@@ -8,19 +8,19 @@ a) The table (where items arrive)
 b) The lamp/robotic arm base
 c) The shelving unit (storage)
 
-# 2-Scan the Table
+#2-Scan the Table
 
 Use a camera or sensor to detect if there is a food product on the table.
 
 Wait if the table is empty.
 
-# 3-Identify the Product
+#3-Identify the Product
 
 Use object recognition or barcode/label scanner to determine the product type.
 
 Categorize the product (e.g., perishable, non-perishable, or by batch number).
 
-# 4-Pick Up the Product
+#4-Pick Up the Product
 
 Move the robotic arm to the product's location on the table.
 
